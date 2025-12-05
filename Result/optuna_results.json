@@ -1,0 +1,11 @@
+{
+    "best_score": 0.7973935989076317,
+    "best_params": {
+        "n_estimators": 144,
+        "max_depth": 17,
+        "min_samples_split": 6,
+        "min_samples_leaf": 1
+    },
+    "n_trials": 100,
+    "feature_type": "HOG 16x16"
+}
